@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">Developer and programmer Passionate from Palestine</h3>
 <img align="center" alt="Coding" width="680" src="https://cdn.discordapp.com/attachments/775406896952639528/1160786056556314654/1.gif?ex=6535ed42&is=65237842&hm=ab8a8896e1fee687d1fbe4b250d7c7b59456c840bda4063307af9ab9a4e616bc&">
+
 <p align="center"><a href="https://discord.com/users/690931800297701438"><img src="https://lanyard-profile-readme.vercel.app/api/690931800297701438?theme=light&bg=00bdb8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="discord"></a></img>
 
 - 🔭 I am Owner Of: [Conker Store](https://discord.gg/6KSRtVNfeq)
 
-- 👨‍💻 All My Projects Are Available At: [Conker Store](https://discord.gg/6KSRtVNfeq)
+- 👨‍💻 All my projects are available at [Conker Store](https://discord.gg/6KSRtVNfeq)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
