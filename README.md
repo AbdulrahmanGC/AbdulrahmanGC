@@ -1,7 +1,7 @@
 # Abdulrahman Dev & Programing
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">Developer and programmer Passionate from Palestine</h3>
-<p align="center"><a href="https://discord.com/users/690931800297701438"><img src="https://lanyard-profile-readme.vercel.app/api/690931800297701438?theme=light&bg=00bdb8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." alt="discord"></a></img>
+<p align="center"><a href="https://discord.com/users/690931800297701438"></a>
 
 - 🔭 I am Owner Of: [Conker Store](https://discord.gg/6KSRtVNfeq)
 
