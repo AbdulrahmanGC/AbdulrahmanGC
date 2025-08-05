@@ -4,9 +4,9 @@
 <h3 align="center">مبرمج، مطور، ومدير تكامل أنظمة (System Integration Manager) 💻</h3>
 
 <p align="center">
-<a href="https://discord.com/users/690931800297701438">
-<img src="https://lanyard-profile-readme.vercel.app/api/690931800297701438?theme=light&bg=00bdb8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=مشغول%20بالبرمجة%20🔥" alt="Discord Presence">
-</a>
+  <a href="https://discord.com/users/690931800297701438" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/690931800297701438?theme=light&bg=00bdb8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=مشغول%20بالبرمجة%20🔥" alt="Discord Presence" />
+  </a>
 </p>
 
 ---
