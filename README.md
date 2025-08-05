@@ -5,9 +5,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/690931800297701438" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/690931800297701438?theme=light&bg=00bdb8&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=مشغول%20بالبرمجة%20🔥" alt="Discord Presence" />
+    <img src="https://api.lanyard.rest/render/690931800297701438" alt="Discord Presence" />
   </a>
 </p>
+
 
 ---
 
