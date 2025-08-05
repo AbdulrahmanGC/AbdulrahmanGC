@@ -1,3 +1,9 @@
+<a href="https://discord.com/users/690931800297701438">
+  <img src="https://lanyard.cnrad.dev/api/690931800297701438" alt="Discord Presence" />
+</a>
+
+--
+
 # Abdulrahman | Developer, Programmer & System Integration Manager
 
 <h1 align="center">أهلًا 👋، أنا عبدالرحمن</h1>
@@ -8,7 +14,6 @@
     <img src="https://api.lanyard.rest/render/690931800297701438" alt="Discord Presence" />
   </a>
 </p>
-
 
 ---
 
