@@ -33,10 +33,10 @@
 ### 📲 تواصل معي:
 <p align="right">
   <a href="https://www.youtube.com/@AbdulrahmanGG" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" alt="YouTube" width="40" />
+    <img src="https://pngimg.com/uploads/youtube/youtube_PNG12.png" alt="YouTube" width="40" />
   </a>
   <a href="https://discord.gg/42cKnNrp2f" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" alt="Discord" width="40" />
+    <img src="https://pngimg.com/uploads/discord/discord_PNG3.png" alt="Discord" width="40" />
   </a>
   <a href="https://x.com/AbdulrahmanGG_1" target="_blank">
     <img src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="X" width="40" />
