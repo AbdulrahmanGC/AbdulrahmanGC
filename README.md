@@ -3,9 +3,9 @@
 <h3 align="center">Developer and programmer Passionate from Palestine</h3>
 <p align="center"><a href="https://discord.com/users/690931800297701438"></a>
 
-- 🔭 I am Owner Of: [Conker Store](https://discord.gg/6KSRtVNfeq)
+- 🔭 I am Owner Of: [Conker Store](https://discord.gg/42cKnNrp2f)
 
-- 👨‍💻 All my projects are available at [Conker Store](https://discord.gg/6KSRtVNfeq)
+- 👨‍💻 All my projects are available at [Conker Store](https://discord.gg/42cKnNrp2f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
