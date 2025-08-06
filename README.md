@@ -53,26 +53,8 @@
   <a href="https://devdocs.io/lua/" target="_blank">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_lua_icon_130410.png" alt="Lua" width="40" />
   </a>
-  <a href="https://www.blender.org/" target="_blank">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png" alt="Blender" width="40" />
-  </a>
-  <a href="https://www.autodesk.com/products/3ds-max/overview" target="_blank">
-    <img src="https://simg.nicepng.com/png/small/346-3465561_3ds-max-3d-max-logo-png.png" alt="3ds Max" width="40" />
-  </a>
-  <a href="https://zmodeler3.com/" target="_blank">
-    <img src="https://img.utdstc.com/icon/765/11a/76511a563d895fa8288e7e67c65f92fa831a5dfff65a1eb56d8a00ea0d526686:100" alt="ZModeler" width="40" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" />
-  </a>
-  <a href="https://unrealengine.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" />
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/4542585?s=200&v=4" alt="Photoshop" width="40" />
@@ -85,9 +67,6 @@
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" />
   </a>
 </p>
 
